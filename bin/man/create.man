@@ -1,0 +1,5 @@
+                                                              FFUP Manual
+Description: this command creates files
+usage: create [files seperated by spaces]
+Author: Sameer Achhab
+Creation date: 28th december 2021
