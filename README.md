@@ -16,7 +16,7 @@ Because I don't like working on Samex anymore, it's hard.
 ## web downloading utility?
 Patience. This is just 1.0.
 ## Did you try to copy bash commands?
-No, my commands are shittier.
+No, my commands are shittier and very cringe. 
 ## Website?
 No.
 ## Will you create a website for installation and updating again?
