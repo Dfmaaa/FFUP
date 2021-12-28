@@ -1,0 +1,5 @@
+                                                                 FFUP Manual
+Description: this command removes files and directories.
+usage: remove [files and folders]
+Author: Sameer Achhab
+Creation date: 28th december 2021
