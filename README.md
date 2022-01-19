@@ -14,7 +14,7 @@ Visit the repo regularly then clone it.
 ## Why did you make this?
 Because I don't like working on Samex anymore, it's hard.
 ## web downloading utility?
-Patience. This is just 1.0.
+Patience. This is just 1.0.(ADDED)
 ## Did you try to copy bash commands?
 No, my commands are shittier and very cringe. 
 ## Website?
