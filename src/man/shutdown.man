@@ -1,4 +1,0 @@
-                                                                FFUP Manual
-Description: This command closes the program.
-Author: Sameer Achhab
-Creation date: 27th december 2021
