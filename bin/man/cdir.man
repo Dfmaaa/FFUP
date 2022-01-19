@@ -1,5 +1,0 @@
-                                                                 FFUP Manual
-Description: this command creates directories
-usage: cdir [directories]
-Author: Sameer Achhab
-Creation date: 28th december 2021
