@@ -1,0 +1,8 @@
+                                                                                              FFUP Manual
+Description: Lists the contents of a directory
+Author: Sameer Achhab
+Creation date: 19/1/2022
+Options:
+[nothing]: displays contents of current directory
+dir [dirs]: displays contents of specified directories
+--recursive: can be added to [nothing], and the [dirs] option to display the contents recursively.

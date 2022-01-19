@@ -1,0 +1,8 @@
+                                                                 FFUP Manual
+Description: This command shows the contents of a file.
+Usage: show [choice] [file]
+choices:
+ normal: nothing required
+ reverse: -r
+Author: Sameer Achhab
+Creation date: 28th december 2021

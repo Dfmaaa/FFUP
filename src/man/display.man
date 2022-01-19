@@ -1,0 +1,5 @@
+                                                                                         FFUP Manual
+Description: displays text
+Author: Sameer Achhab
+Creation date: 19/1/2022
+Usage: display [text]
