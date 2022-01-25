@@ -1,0 +1,5 @@
+                                                                                 FFUP Manual
+Description: executes multiple commands in a row.
+Author: Sameer Achhab
+Creation date: 25th jan 2022
+Usage: exec [file]
