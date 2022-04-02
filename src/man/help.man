@@ -1,0 +1,6 @@
+                                                                    FFUP Manual
+Description: displays a string, acts like an alias of man, because help [class] returns the same output.
+Date: Probably on the same day as FFUP.
+Author: Sameer Achhab
+Usage: help
+       help [class]
