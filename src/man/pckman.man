@@ -1,0 +1,33 @@
+                                                                       FFUP Manual
+Description: A package manager for FFUP
+Author: Sameer Achhab
+Date: 1st April 2022(not an april fool's joke haha)
+Options:
+ -sources
+ --Usage: pckman sources
+ --Description: lists all the pckman sources from sources.ffup or custom source file(edit the code)
+ -list
+ --Usage: pckman list
+ --Description: Lists all the packages(installed)
+ -install
+ --Usage: pckman install [options] [package name]
+ ---suboptions:
+ ---- "-c" : Lets you choose the source during installation(After checking existence of package in source.)
+ ---- "-s" : Lets you get the source code of a package.
+ ---- "-a" : gets Y/N input to confirm installation.
+ ---All the suboptions can be used together(except -a, it can only be used if -c is not being used). The source code option can be used with the choice option
+ -uninstall
+ --Usage: pckman uninstall [full file name of package, .java extension if source code, .class extension if normal]
+ --Description: Uninstalls packages
+Examples of install:
+-pckman install helloworld
+-pckman install -c helloworld
+-pckman install -s helloworld
+-pckman install -s -c helloworld
+-pckman install -c -s helloworld
+-pckman install -s -a helloworld
+-pckman install -a helloworld
+
+
+
+
