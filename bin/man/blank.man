@@ -1,5 +1,0 @@
-                                                                                   FFUP Manual
-Description: makes files empty.
-Author: Sameer Achhab
-Creation date: 25th jan 2022
-Usage: blank [files and directories]

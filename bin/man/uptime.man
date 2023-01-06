@@ -1,5 +1,0 @@
-                                                                                         FFUP Manual
-Description: displays the number of milliseconds that've passed since the login in FFUP.
-Author: Sameer Achhab
-usage: uptime
-Creation date: 25th jan 2022

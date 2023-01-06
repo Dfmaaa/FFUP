@@ -1,5 +1,0 @@
-                                                                        FFUP Manual
-Description: removes everything on the terminal
-Author: Sameer Achhab
-Creation date: 15/2/2022
-Usage: clear

@@ -1,6 +1,0 @@
-                                                                        FFUP Manual
-Description: displays the number of nanoseconds it takes to execute a command
-Author: Sameer Achhab
-usage: time [command]
-Creation date: 18/2/2022
-

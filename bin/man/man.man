@@ -1,5 +1,0 @@
-Haha, see, there's a man for the man too, funny isn't it? haha. You can call this with help too, like:
-
-help man
-
-That command will show this man file.
