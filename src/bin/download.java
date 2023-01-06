@@ -32,7 +32,7 @@ public class download {
                downloadFile(new URL(urls[x].split(" ")[0]), defName);
            }
            counter++;
-           System.out.println("Finished " + counter + "/" + full + "(" + (double)(counter*100)/2 + ")");
+           System.out.println("Finished " + counter + "/" + full + "(" + (double)(counter*100)/full + ")");
            successCounter++;
        }
        catch(Exception e){
