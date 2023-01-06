@@ -45,6 +45,7 @@ public class FFUP{
      }
      System.out.println("FFUP 1.0 2021. Type help for a list of commands.");
      while(true){
+      System.out.print("\nFFUP$ ");
       String command=strin.nextLine();
       if(command.contains(";")){
         for(String cmd : command.split(";")){
